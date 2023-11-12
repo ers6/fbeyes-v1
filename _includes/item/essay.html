@@ -1,0 +1,13 @@
+{% comment %}
+
+    Adds a box to highlight rights information if item has a "rights" or "rightsstatement" field.
+    could use this to include the contextual essays 
+{%- endcomment -%}
+<div class="card">
+    <div class="card-header"><b>{{page.essay-title}}</b></div>
+    <div class="card-body">
+        <dl>
+            <dd>{{ page.essay }}</dd>
+        </dl>
+    </div>
+</div>

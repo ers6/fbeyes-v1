@@ -1,0 +1,72 @@
+{
+    "title": {
+        "media": {
+          "url": "/objects/fbeyes-bg-gray.jpg",
+          "caption": null,
+          "credit": "F.B. Eyes Digital Archive"
+        },
+        "text": {
+          "headline": "F.B. Eyes Digital Archive Timeline",
+          "text": "FBI Files on African American authors and literary instutions obtained via FOIA."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "http://digital.wustl.edu/f/fbi/images/wrightrichard.jpg",
+          "caption": "Wright, Richard",
+          "link": "/items/object_001.html"
+        },
+        "start_date": { 
+          
+          "year": "1942"
+        },
+        "text": {
+          "headline": "Wright, Richard",
+          "text": "FBI documents studying Richard Wright."
+        }
+      },{
+        "media": {
+          "url": "http://digital.wustl.edu/f/fbi/images/whitewalter.jpg",
+          "caption": "White, Walter",
+          "link": "/items/object_002.html"
+        },
+        "start_date": { 
+          
+          "year": "1943"
+        },
+        "text": {
+          "headline": "White, Walter",
+          "text": "FBI documents studying Walter White."
+        }
+      },{
+        "media": {
+          "url": "http://digital.wustl.edu/f/fbi/images/wardtheodore.jpg",
+          "caption": "Ward, Theodore",
+          "link": "/items/object_003.html"
+        },
+        "start_date": { 
+          
+          "year": "1944"
+        },
+        "text": {
+          "headline": "Ward, Theodore",
+          "text": "FBI documents studying Theodore Ward."
+        }
+      },{
+        "media": {
+          "url": "http://digital.wustl.edu/f/fbi/images/smithwilliamgardner.jpg",
+          "caption": "Smith, William Gardner",
+          "link": "/items/object_004.html"
+        },
+        "start_date": { 
+          
+          "year": "1951"
+        },
+        "text": {
+          "headline": "Smith, William Gardner",
+          "text": "FBI documents studying William Gardner Smith."
+        }
+      }
+    ]
+}

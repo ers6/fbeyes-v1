@@ -1,0 +1,20 @@
+{ 
+    "title": "F.B. Eyes Digital Archive",
+    "url": "http://localhost:4000/",
+    "image": "/objects/fbeyes-bg-gray.jpg", 
+    "description": "FBI Files on African American authors and literary instutions obtained via FOIA.",
+    "publisher": { 
+        "name": "Professor William J. Maxwell", 
+        "url": "https://press.princeton.edu/books/hardcover/9780691130200/fb-eyes", 
+        "logo": "objects/fbeyes-hdr3.png" 
+    },
+    "date_start": "1942",
+    "date_end": "1951",
+    "objects": {
+        "application/pdf": "4"
+        
+    },
+    "data": "http://localhost:4000/assets/data/datapackage.json",
+    "last_build_date": "2023-11-12"
+}
+

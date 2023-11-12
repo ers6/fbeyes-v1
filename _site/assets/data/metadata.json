@@ -1,0 +1,82 @@
+{ "objects": [{ 
+        "title": "Wright, Richard",
+        "creator": "Federal Bureau of Investigation",
+        "date": "1942",
+        "description": "FBI documents studying Richard Wright.",
+        
+        
+        
+        
+        
+        "identifier": "fbeyeswrightrichard8116",
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "Public Domain",
+        "rightsstatement": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "object_thumb": "http://digital.wustl.edu/f/fbi/images/wrightrichard.jpg",
+        "object_location": "https://archive.org/details/fbeyeswrightrichard8116",
+        "reference_url": "http://localhost:4000/items/object_001.html"
+    },
+    { 
+        "title": "White, Walter",
+        "creator": "Federal Bureau of Investigation",
+        "date": "1943",
+        "description": "FBI documents studying Walter White.",
+        
+        
+        
+        
+        
+        "identifier": "fbeyeswhitewalter8117",
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "Public Domain",
+        "rightsstatement": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "object_thumb": "http://digital.wustl.edu/f/fbi/images/whitewalter.jpg",
+        "object_location": "https://archive.org/details/fbeyeswhitewalter8117",
+        "reference_url": "http://localhost:4000/items/object_002.html"
+    },
+    { 
+        "title": "Ward, Theodore",
+        "creator": "Federal Bureau of Investigation",
+        "date": "1944",
+        "description": "FBI documents studying Theodore Ward.",
+        
+        
+        
+        
+        
+        "identifier": "fbeyeswardtheodore8118",
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "Public Domain",
+        "rightsstatement": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "object_thumb": "http://digital.wustl.edu/f/fbi/images/wardtheodore.jpg",
+        "object_location": "https://archive.org/details/fbeyeswardtheodore8118",
+        "reference_url": "http://localhost:4000/items/object_003.html"
+    },
+    { 
+        "title": "Smith, William Gardner",
+        "creator": "Federal Bureau of Investigation",
+        "date": "1951",
+        "description": "FBI documents studying William Gardner Smith.",
+        
+        
+        
+        
+        
+        "identifier": "fbeyessmithwilliamgardner8119",
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "Public Domain",
+        "rightsstatement": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "object_thumb": "http://digital.wustl.edu/f/fbi/images/smithwilliamgardner.jpg",
+        "object_location": "https://archive.org/details/fbeyessmithwilliamgardner8119",
+        "reference_url": "http://localhost:4000/items/object_004.html"
+    }
+    
+] }

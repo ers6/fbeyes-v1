@@ -1,0 +1,22 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "federal bureau of investigation": 4
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "application/pdf": 4
+            }
+        }
+        
+    ]
+}
